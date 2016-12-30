@@ -1,2 +1,2 @@
 # GroovyDatabase
-Explore CRUD database operations in Groovy.
+Explores CRUD database operations in Groovy.
